@@ -5,21 +5,21 @@ sample collection of libuv
 [uvbook](https://github.com/nikhilm/uvbook)
 
 
-—˜—p•û–@
+åˆ©ç”¨æ–¹æ³•
 ------
 
-### libeventƒ‚ƒWƒ…[ƒ‹‚ÌƒCƒ“ƒXƒg[ƒ‹ ###
+### libubãƒ¢ã‚¸ãƒ¥ãƒ¼ãƒ«ã®ã‚¤ãƒ³ã‚¹ãƒˆãƒ¼ãƒ« ###
     
     $ sudo aptitude install -y libuv-dev 
 
-### ƒNƒCƒbƒNƒXƒ^[ƒg ###
+### ã‚¯ã‚¤ãƒƒã‚¯ã‚¹ã‚¿ãƒ¼ãƒˆ ###
     
     $ cd fcgi-cli
     $ make
     $ ./fcgi-cli
     
 
-ƒ‰ƒCƒZƒ“ƒX
+ãƒ©ã‚¤ã‚»ãƒ³ã‚¹
 ----------
 Copyright &copy; 2015 Yujiro Takahashi  
 Licensed under the [MIT License][MIT].  
